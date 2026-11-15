@@ -1211,10 +1211,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/strictest@npm:2.0.2":
-  version: 2.0.2
-  resolution: "@tsconfig/strictest@npm:2.0.2"
-  checksum: 5409233288d872a2d79aca5eb65d3da681c6e0baa9ee58744adceda834fececdaa8265869793cfd5a80f4c887e3296b4d13309ef5bffbf7c8272071f00b60ba7
+"@tsconfig/strictest@npm:2.0.9":
+  version: 2.0.9
+  resolution: "@tsconfig/strictest@npm:2.0.9"
+  checksum: 3e6c52ed387ed9d0d3f5ddb3585414bb1d215a75cbf42d4daab7810be2289b4dcf68dd98a3228a49cfdc70e7bd21ebd50dfe502173b61f4cef80ca823089b448
   languageName: node
   linkType: hard
 
@@ -2835,7 +2835,7 @@ __metadata:
     "@semantic-release/exec": 6.0.3
     "@sindresorhus/is": 6.0.0
     "@tsconfig/node18": 18.2.2
-    "@tsconfig/strictest": 2.0.2
+    "@tsconfig/strictest": 2.0.9
     "@types/global-agent": 2.1.1
     "@types/node": 18.17.12
     "@types/semver": 7.5.3
