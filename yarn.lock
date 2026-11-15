@@ -1204,10 +1204,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/node18@npm:18.2.2":
-  version: 18.2.2
-  resolution: "@tsconfig/node18@npm:18.2.2"
-  checksum: 1c4b04b570e33de14bf518492e077079db2dcfba738c8d40c6ff916d94c9410246f4cb56f0802d9771423862140bf714c35d4a5f6cec2446d851cf61d3f8f9df
+"@tsconfig/node18@npm:18.2.8":
+  version: 18.2.8
+  resolution: "@tsconfig/node18@npm:18.2.8"
+  checksum: 025bc96a8b028bd11173a53d6fa102a3fe272d179e19be7b1287f56bab457544b489e1772de7c4bac77552c7e6051580dcfdb773b8647ef36bd24f9b550a6b9f
   languageName: node
   linkType: hard
 
@@ -2834,7 +2834,7 @@ __metadata:
   dependencies:
     "@semantic-release/exec": 6.0.3
     "@sindresorhus/is": 6.0.0
-    "@tsconfig/node18": 18.2.2
+    "@tsconfig/node18": 18.2.8
     "@tsconfig/strictest": 2.0.2
     "@types/global-agent": 2.1.1
     "@types/node": 18.17.12
